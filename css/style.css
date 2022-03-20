@@ -1,0 +1,11 @@
+h1 {
+  text-align: left;
+  font-weight: 700;
+  color: rgb(12, 12, 134);
+}
+.container {
+  height: 400px;
+  width: 500px;
+  background: lightgreen;
+  margin-left: 20px;
+}
